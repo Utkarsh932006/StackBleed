@@ -1,0 +1,6 @@
+vulnerable
+secure
+*.o
+*.dSYM
+logs/
+.DS_Store
